@@ -1,0 +1,15 @@
+{
+  "Author": "Noko",
+  "Name": "Millers Hollow",
+  "Punchline": "Werewolves, but friendlier",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "roleplay",
+    "werewolves",
+    "mafia",
+    "miller",
+    "hollow"
+  ]
+}
